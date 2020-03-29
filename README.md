@@ -11,6 +11,10 @@ It is part of the requirements for completing UDACITY.COM NANODEGREE program for
 4. Run the app eg node server.js
 5. Navigate to localhost:3000 on your browser.
 
+## Development Stack
+Javascript, Node, Express.
+
 ## Note
-This project is designed using Javascript, Node JS, Express.
 The temperature data is pulled from https://openweathermap.org/
+You will need to signup with them to get your own api key then assign it to apiKey varriable in website/app.js.
+You need the api key fpr the app to work.
